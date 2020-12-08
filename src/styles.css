@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap");
+.App {
+  font-family: "Do Hyeon", sans-serif;
+  text-align: center;
+  font-size: x-large;
+  color: whitesmoke;
+}
+* {
+  margin: 0;
+  margin-bottom: 10px;
+}
+body {
+  background: url("https://www.itl.cat/pngfile/big/228-2280505_all-sports.jpg");
+}
+input {
+  padding: 1rem;
+  width: 80%;
+}
+#emojis {
+  background-color: rgba(219, 215, 215, 0.5);
+  width: 70%;
+  display: block;
+  margin: auto;
+  box-shadow: 0 0 10px 4px black;
+  border-radius: 50px;
+}
